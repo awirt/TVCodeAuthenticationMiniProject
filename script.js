@@ -17,8 +17,9 @@ function randomNum(){
 
 function checkCode(){
   event.preventDefault();
-  var userInput = textField.val();
-  console.log(userInput);
+  console.log("The button worked.");
+//   var userInput = textField.val();
+//   console.log(userInput);
 }
 
 //Function Calls:
