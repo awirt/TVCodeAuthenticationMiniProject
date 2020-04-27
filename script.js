@@ -1,3 +1,5 @@
+console.log("Script is linked!");
+
 //Containers and Buttons:
 var container1 = $(".firstNum");
 var container2 = $(".secNum");
