@@ -15,7 +15,7 @@ function randomNum(){
   return(Math.floor(randDecimal));
 }
 
-function checkCode(){
+function checkCode(event){
   event.preventDefault();
   console.log("The button worked.");
 //   var userInput = textField.val();
